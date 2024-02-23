@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Petit Blog</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+
+ /* Fond bleu foncé */
+        body {
+            background-color: #0f4c75;
+            color: white; /* Texte en blanc */
+        }
+
+        /* Style pour le contenu */
+        #main-content {
+            padding: 20px; /* Ajoute un peu d'espace autour du contenu */
+        }
+
+        /* Style pour les titres */
+        h1, h2, h3 {
+            color: white; /* Titres en blanc */
+        }
+
+        /* Style pour les liens */
+        a {
+            color: #bbe1fa; /* Couleur des liens */
+        }
+
+        a:hover {
+            color: #f3d250; /* Couleur des liens au survol */
+        }
+
+        /* Style pour les images */
+        .blog-image {
+            max-width: 100%;
+            height: auto;
+        }
+
+        /* Ton code CSS ici */
+        .blog-image {
+            max-width: 100%;
+            height: auto;
+        }
+
+.blog-image {
+    width: 300px; /* Largeur spécifique */
+    height: 200px; /* Hauteur spécifique */
+}
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mon Petit Blog que j'ai codé de A à Z</h1>
+    </header>
+   
+    <section id="main-content">
+        <article>
+            <h2>Mon histoire avec la moto</h2>
+            <p>Voici mon histoire avec les motos:</p>
+
+        </article><p>Vers les 10/12 ans j'ai renconreté des motards dans un camping, et j'ai fais mon premier tour de moto (en passagé), ça a été une révéléation, le motard en moi était né.</p>
+
+<p>Puis à l'adolessance j'ai fais un pré-apprentissage (pas rémunéré) mécanique orianté moto. 1 an chez Kawasaki/apprilia.</p>
+<p>PS: je ne parle pas de ma période en mobilette/scooter </p> <br>
+<p>C'est en 2001 où j'ai commencé à travailler en magasin d'accessoires motos&motards, jusqu'en 2012.</p>
+<img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\Photos-0087.jpg" alt="Photos-0087.jpg"class="blog-image">
+
+        <article>
+            <h2>Mes motos</h2>
+            <p>Voici la liste des motos que j'ai eu:</p>
+
+      <p> Ma première était la Bandit 600 de 1999</p>
+
+<p> <img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\my bandit.jpg" alt="my bandit"class="blog-image"> <img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\col moi.jpg" alt="col moi"class="blog-image">
+ </p>
+
+<p>Ma deuxière était la SV650s, premier modèle à injection, je me suis vite lassé donc je suis passé sur le gex. </p>
+<img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\SV.jpg" alt="SV"class="blog-image">
+<p>En 3ème la GSXR750K7 édition TT que j'ai gardé 9 ans, je suis allé sur NOGARO, et fais le tour de Corse.</p>
+<img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\IMG_0251.jpg" alt="IMG_0251"class="blog-image"> <img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\IMGP4447.jpg" alt="IMGP4447"class="blog-image"> <img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\gexpiste.jpg" alt="gexpiste"class="blog-image"> 
+<p>En paralèle j'ai eu la ducati 748 modifié en mode SP, mais trop inconfortable au possible.</p>
+<img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\748d.jpg" alt="748d"class="blog-image"> <img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\748g.jpg" alt="748g"class="blog-image">
+<p>J'ai aussi rénové et vendu un bandit 400 accidenté. </p>
+<img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\IMGP3636.JPG" alt="IMGP3636.JPG"class="blog-image"> <img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\IMGP3635.JPG" alt="IMGP3635.JPG"class="blog-image"> <img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\IMGP4680.JPG" alt="IMGP4680.JPG"class="blog-image"> <img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\Photo0253.jpg" alt="Photo0253.jpg"class="blog-image">
+<p>Et 2 70cc Honda 2T.</p>
+<img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\NSR75.JPG" alt="NSR75.JPG"class="blog-image"> <img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\NSR70.JPG" alt="NSR70.JPG"class="blog-image">
+<p>Sans parler du quad pour la neige.</p>
+<img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\quad1.JPG" alt="quad1.JPG"class="blog-image"> <img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\quad2.JPG" alt="quad2.JPG"class="blog-image">
+<p>En 2013 ma vie change et je dois me débarasser du maximume de choses, j'ai quasi tout vendu, la ducati à été remplacée par une 600 hornet que j'ai aussi dû vendre peu de temps après, le quad HS est parti pour pièces, à la fin la GSXR est partie pour un acheteur qui fait de la piste.</p>
+<img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\hornet.jpg" alt="hornet"class="blog-image"> <img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\hornet2.jpg" alt="hornet2"class="blog-image">
+<p>C'est 1 an après que j'ai pu reprendre la moto et j'ai eu une FZ6s, tres polivalante.</p> 
+<img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\fz6.jpg" alt="fz6"class="blog-image"> <img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\fz6s.jpg" alt="fz6s"class="blog-image"> 
+<p>Puis 2 ans après en plus j'ai pris ma première HARLEY DAVIDSON SPORSTER 883.</p> 
+<img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\883.jpg" alt="883"class="blog-image"> <img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\883cs.jpg" alt="883cs"class="blog-image">
+<p> C'est 2 ans après que j'ai vendu les 2 motos pour passer sur ma DYNA Street-bob 1584cc </p>
+ <img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\dynacs.jpg" alt="dynacs"class="blog-image"> 
+<p>Que j'ai préparée en club-style.Je l'ai toujours et je kif avec.</p>
+<img src="C:\Users\bdelp\OneDrive\Images\montage photos seb moto 2024\dyna.jpg" alt="dyna"class="blog-image">
+<br>
+<p>Merci d'avoir lu mon blog </p> <br>
+<p>
+  <a href="https://www.youtube.com/watch?v=ESCAtei76ps" target="_blank">
+  </a>
+</p>
+</article>
+
+    </section>
+    <footer>
+        <p>&copy; 2024 Mon Petit Blog</p>
+    </footer>
+</body>
+</html>
